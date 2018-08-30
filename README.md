@@ -8,10 +8,10 @@
   ### Image Description Generator
   ![](https://farm2.staticflickr.com/1892/30493445388_2193e6dffa.jpg)
   
-  ### Product List
+  ### Products List
   ![](https://farm2.staticflickr.com/1857/30493445268_dcd55469dc.jpg)
   
-  ### Product Detail && Purchase
+  ### Product Details && Purchase
   
   ![](https://farm2.staticflickr.com/1881/42552351480_931f4e3a09.jpg)
   
