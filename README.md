@@ -2,7 +2,7 @@
   An android app made by team "Mandalina" for Garanti Hackathon. It recognizes objects from pictures you've taken by using [Cloudsight API](http://cloudsightapi.com/) 
   and searchs on [Gittigidiyor.com](http://www.gittigidiyor.com). It aims to make easier to find and buy any product on internet.
   
-  ### Camera Access
+  ### Camera
   ![](https://farm2.staticflickr.com/1854/42552351020_4c80d173ab.jpg)
   
   ### Image Description Generator
