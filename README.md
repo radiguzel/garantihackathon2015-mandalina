@@ -24,7 +24,7 @@
 * [Abdullatif Köksal](https://github.com/akoksal)
 * [Erkam Şeker](https://github.com/erkamseker)
 * [Melih Mutlu](https://github.com/melihmutlu)
-* Recepcan Adıgüzel
+* [Recepcan Adıgüzel](https://github.com/radiguzel)
 
 #### Notes:
 * Not well-documented since it's coded in 36 hours.
